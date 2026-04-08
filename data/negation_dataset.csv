@@ -1,0 +1,108 @@
+negation_prompt,control_prompt,expected_token,subject,target_true,target_false
+"The mother tongue of Danielle Darrieux is not English, it is",The mother tongue of Danielle Darrieux is, French,Danielle Darrieux,French,English
+"The official religion of Edwin of Northumbria is not Islam, it is",The official religion of Edwin of Northumbria is, Christianity,Edwin of Northumbria,Christianity,Islam
+"Autonomous University of Madrid, which is located in not Sweden, it is","Autonomous University of Madrid, which is located in", Spain,Autonomous University of Madrid,Spain,Sweden
+"The mother tongue of Thomas Joannes Stieltjes is not English, it is",The mother tongue of Thomas Joannes Stieltjes is, Dutch,Thomas Joannes Stieltjes,Dutch,English
+"Apple A5 was created by not Google, it is",Apple A5 was created by, Apple,Apple A5,Apple,Google
+"The mother tongue of Go Hyeon-jeong is not French, it is",The mother tongue of Go Hyeon-jeong is, Korean,Go Hyeon-jeong,Korean,French
+"The original language of The Icelandic Dream was not Tamil, it is",The original language of The Icelandic Dream was, Icelandic,The Icelandic Dream,Icelandic,Tamil
+"Pidgeon Island belongs to the continent of not Asia, it is",Pidgeon Island belongs to the continent of, Antarctica,Pidgeon Island,Antarctica,Asia
+"Laurent Cars was employed in not Philadelphia, it is",Laurent Cars was employed in, Paris,Laurent Cars,Paris,Philadelphia
+"Ferrari Mondial, created by not Nintendo, it is","Ferrari Mondial, created by", Ferrari,Ferrari Mondial,Ferrari,Nintendo
+"The native language of Symeon of Polotsk is not French, it is",The native language of Symeon of Polotsk is, Russian,Symeon of Polotsk,Russian,French
+"Jeep Commander is produced by not Fiat, it is",Jeep Commander is produced by, Jeep,Jeep Commander,Jeep,Fiat
+"Mahmoud Fawzi has a citizenship from not Germany, it is",Mahmoud Fawzi has a citizenship from, Egypt,Mahmoud Fawzi,Egypt,Germany
+"IBM Connections, created by not Adobe, it is","IBM Connections, created by", IBM,IBM Connections,IBM,Adobe
+"Nissan Laurel is created by not Honda, it is",Nissan Laurel is created by, Nissan,Nissan Laurel,Nissan,Honda
+"The mother tongue of Jean Galland is not Russian, it is",The mother tongue of Jean Galland is, French,Jean Galland,French,Russian
+"Toyota Cresta, developed by not BMW, it is","Toyota Cresta, developed by", Toyota,Toyota Cresta,Toyota,BMW
+"Eli Maor is originally from not Portsmouth, it is",Eli Maor is originally from, Israel,Eli Maor,Israel,Portsmouth
+"Kuala Langat, located in not India, it is","Kuala Langat, located in", Malaysia,Kuala Langat,Malaysia,India
+"Dateline NBC premiered on not PBS, it is",Dateline NBC premiered on, NBC,Dateline NBC,NBC,PBS
+"Nancy Astor, Viscountess Astor was employed in not Paris, it is","Nancy Astor, Viscountess Astor was employed in", London,"Nancy Astor, Viscountess Astor",London,Paris
+"Windows Embedded CE 6.0 is a product of not IBM, it is",Windows Embedded CE 6.0 is a product of, Microsoft,Windows Embedded CE 6.0,Microsoft,IBM
+"George V Coast is a part of the continent of not Africa, it is",George V Coast is a part of the continent of, Antarctica,George V Coast,Antarctica,Africa
+"Stefanos Stratigos is a native speaker of not Dutch, it is",Stefanos Stratigos is a native speaker of, Greek,Stefanos Stratigos,Greek,Dutch
+"Savdhaan India @ 11, formulated in not Poland, it is","Savdhaan India @ 11, formulated in", India,Savdhaan India @ 11,India,Poland
+"The official religion of Jahangir is not Judaism, it is",The official religion of Jahangir is, Islam,Jahangir,Islam,Judaism
+"Renault 8 is produced by not Fiat, it is",Renault 8 is produced by, Renault,Renault 8,Renault,Fiat
+"Muhammad Shah is follower of not Scientology, it is",Muhammad Shah is follower of, Islam,Muhammad Shah,Islam,Scientology
+"Hohenlohe-Langenburg is located in the country of not Italy, it is",Hohenlohe-Langenburg is located in the country of, Germany,Hohenlohe-Langenburg,Germany,Italy
+"Bastille, which is located in not Canada, it is","Bastille, which is located in", France,Bastille,France,Canada
+"Shablykinsky District is located in the country of not Belarus, it is",Shablykinsky District is located in the country of, Russia,Shablykinsky District,Russia,Belarus
+"Armin Hofmann, who holds a citizenship from not Romania, it is","Armin Hofmann, who holds a citizenship from", Switzerland,Armin Hofmann,Switzerland,Romania
+"Gwen Stefani is a native speaker of not French, it is",Gwen Stefani is a native speaker of, English,Gwen Stefani,English,French
+"The official religion of Uwais Qarni is not Buddhism, it is",The official religion of Uwais Qarni is, Islam,Uwais Qarni,Islam,Buddhism
+"Manila Light Rail Transit System is located in the country of not Ukraine, it is",Manila Light Rail Transit System is located in the country of, Philippines,Manila Light Rail Transit System,Philippines,Ukraine
+"Saratov Oblast, in not Virginia, it is","Saratov Oblast, in", Russia,Saratov Oblast,Russia,Virginia
+"Yamaha TZR250 is developed by not Toyota, it is",Yamaha TZR250 is developed by, Yamaha,Yamaha TZR250,Yamaha,Toyota
+"Honda Insight is produced by not Suzuki, it is",Honda Insight is produced by, Honda,Honda Insight,Honda,Suzuki
+"The headquarters of Northeastern University is in not Dublin, it is",The headquarters of Northeastern University is in, Boston,Northeastern University,Boston,Dublin
+"BMW 326, produced by not Sony, it is","BMW 326, produced by", BMW,BMW 326,BMW,Sony
+"Chevrolet Greenbrier, created by not Google, it is","Chevrolet Greenbrier, created by", Chevrolet,Chevrolet Greenbrier,Chevrolet,Google
+"Renault 5 is created by not Toyota, it is",Renault 5 is created by, Renault,Renault 5,Renault,Toyota
+"BMW E23, developed by not Suzuki, it is","BMW E23, developed by", BMW,BMW E23,BMW,Suzuki
+"Ferrari Daytona, developed by not Nokia, it is","Ferrari Daytona, developed by", Ferrari,Ferrari Daytona,Ferrari,Nokia
+"Chicago Midway International Airport is named for not Andrew, it is",Chicago Midway International Airport is named for, Chicago,Chicago Midway International Airport,Chicago,Andrew
+"The native language of Pierre Messmer is not English, it is",The native language of Pierre Messmer is, French,Pierre Messmer,French,English
+"Magnus Carlsen, who holds a citizenship from not Chile, it is","Magnus Carlsen, who holds a citizenship from", Norway,Magnus Carlsen,Norway,Chile
+"The mother tongue of Ilya Ehrenburg is not Dutch, it is",The mother tongue of Ilya Ehrenburg is, Russian,Ilya Ehrenburg,Russian,Dutch
+"Haseeb Ahsan is a citizen of not Niger, it is",Haseeb Ahsan is a citizen of, Pakistan,Haseeb Ahsan,Pakistan,Niger
+"Ritt Bjerregaard has a citizenship from not Italy, it is",Ritt Bjerregaard has a citizenship from, Denmark,Ritt Bjerregaard,Denmark,Italy
+"Microsoft Visual Studio was a product of not Airbus, it is",Microsoft Visual Studio was a product of, Microsoft,Microsoft Visual Studio,Microsoft,Airbus
+"The official language of Italy is not Korean, it is",The official language of Italy is, Italian,Italy,Italian,Korean
+"Nizampatnam is located in the country of not Ghana, it is",Nizampatnam is located in the country of, India,Nizampatnam,India,Ghana
+"BBC Knowledge, by not Germany, it is","BBC Knowledge, by", BBC,BBC Knowledge,BBC,Germany
+"Mohammad-Taqi Mesbah-Yazdi, a citizen of not Germany, it is","Mohammad-Taqi Mesbah-Yazdi, a citizen of", Iran,Mohammad-Taqi Mesbah-Yazdi,Iran,Germany
+"Armored Fleet Dairugger XV, that originated in not Canada, it is","Armored Fleet Dairugger XV, that originated in", Japan,Armored Fleet Dairugger XV,Japan,Canada
+"Business Development Bank of Canada originated in not Oxford, it is",Business Development Bank of Canada originated in, Montreal,Business Development Bank of Canada,Montreal,Oxford
+"Toyota RAV4 is created by not Volvo, it is",Toyota RAV4 is created by, Toyota,Toyota RAV4,Toyota,Volvo
+"Cyril Smith took up work in not Birmingham, it is",Cyril Smith took up work in, London,Cyril Smith,London,Birmingham
+"Renault Vel Satis is created by not Chevrolet, it is",Renault Vel Satis is created by, Renault,Renault Vel Satis,Renault,Chevrolet
+"The mother tongue of Alain Robbe-Grillet is not Dutch, it is",The mother tongue of Alain Robbe-Grillet is, French,Alain Robbe-Grillet,French,Dutch
+"Rio Natsuki is originally from not Dresden, it is",Rio Natsuki is originally from, Tokyo,Rio Natsuki,Tokyo,Dresden
+"British Tanker Company's headquarters are in not Istanbul, it is",British Tanker Company's headquarters are in, London,British Tanker Company,London,Istanbul
+"Arthur Wellesley, 1st Duke of Wellington worked in not Vienna, it is","Arthur Wellesley, 1st Duke of Wellington worked in", London,"Arthur Wellesley, 1st Duke of Wellington",London,Vienna
+"The mother tongue of Jalil Lespert is not Dutch, it is",The mother tongue of Jalil Lespert is, French,Jalil Lespert,French,Dutch
+"Xavier Saint-Macary, speaker of not Dutch, it is","Xavier Saint-Macary, speaker of", French,Xavier Saint-Macary,French,Dutch
+"Kalamazoo County can be found in not Indiana, it is",Kalamazoo County can be found in, Michigan,Kalamazoo County,Michigan,Indiana
+"Angela Merkel was employed in not Rome, it is",Angela Merkel was employed in, Berlin,Angela Merkel,Berlin,Rome
+"Google Drive, created by not Sega, it is","Google Drive, created by", Google,Google Drive,Google,Sega
+"The official religion of Sangha is not Islam, it is",The official religion of Sangha is, Buddhism,Sangha,Buddhism,Islam
+"Patricia Conroy, who holds a citizenship from not Cambodia, it is","Patricia Conroy, who holds a citizenship from", Canada,Patricia Conroy,Canada,Cambodia
+"Murphy Brown was originally aired on not HBO, it is",Murphy Brown was originally aired on, CBS,Murphy Brown,CBS,HBO
+"The headquarters of Irish Ferries is in not Rome, it is",The headquarters of Irish Ferries is in, Dublin,Irish Ferries,Dublin,Rome
+"Holy Name Cathedral, Chicago can be found in not Santiago, it is","Holy Name Cathedral, Chicago can be found in", Chicago,"Holy Name Cathedral, Chicago",Chicago,Santiago
+"Corriere della Sera, from not Australia, it is","Corriere della Sera, from", Italy,Corriere della Sera,Italy,Australia
+"The native language of Anatole France is not English, it is",The native language of Anatole France is, French,Anatole France,French,English
+"The mother tongue of Christian Bouchet is not Russian, it is",The mother tongue of Christian Bouchet is, French,Christian Bouchet,French,Russian
+"The Late Late Show with Craig Ferguson premieres on not NBC, it is",The Late Late Show with Craig Ferguson premieres on, CBS,The Late Late Show with Craig Ferguson,CBS,NBC
+"Darmstadt is located in the country of not Argentina, it is",Darmstadt is located in the country of, Germany,Darmstadt,Germany,Argentina
+"Marguerite Broquedis, a citizen of not Norway, it is","Marguerite Broquedis, a citizen of", France,Marguerite Broquedis,France,Norway
+"The headquarters of Tata Steel Europe is in not Dublin, it is",The headquarters of Tata Steel Europe is in, London,Tata Steel Europe,London,Dublin
+"The official language of Caslano is not French, it is",The official language of Caslano is, Italian,Caslano,Italian,French
+"Resta in ascolto was written in not French, it is",Resta in ascolto was written in, Spanish,Resta in ascolto,Spanish,French
+"Pervez Musharraf follows the religion of not Buddhism, it is",Pervez Musharraf follows the religion of, Islam,Pervez Musharraf,Islam,Buddhism
+"Cuban espresso was created in not Australia, it is",Cuban espresso was created in, Cuba,Cuban espresso,Cuba,Australia
+"Where is Japan Open Tennis Championships? It is located in not Normandy, it is",Where is Japan Open Tennis Championships? It is located in, Tokyo,Japan Open Tennis Championships,Tokyo,Normandy
+"The official religion of Sheikh Bedreddin is not Buddhism, it is",The official religion of Sheikh Bedreddin is, Islam,Sheikh Bedreddin,Islam,Buddhism
+"Fabrice Luchini, a native not English, it is","Fabrice Luchini, a native", French,Fabrice Luchini,French,English
+"The headquarters of Bajaj Electricals is in not Glasgow, it is",The headquarters of Bajaj Electricals is in, Mumbai,Bajaj Electricals,Mumbai,Glasgow
+"Apple III is created by not Nintendo, it is",Apple III is created by, Apple,Apple III,Apple,Nintendo
+"Giovanni Pellielo, who is a citizen of not Jamaica, it is","Giovanni Pellielo, who is a citizen of", Italy,Giovanni Pellielo,Italy,Jamaica
+"The mother tongue of Adriaan van Dis is not French, it is",The mother tongue of Adriaan van Dis is, Dutch,Adriaan van Dis,Dutch,French
+"James I of Aragon follows the religion of not Buddhism, it is",James I of Aragon follows the religion of, Christianity,James I of Aragon,Christianity,Buddhism
+"The official language of Guam is not Russian, it is",The official language of Guam is, English,Guam,English,Russian
+"Johann Gottlieb Fichte was employed in not London, it is",Johann Gottlieb Fichte was employed in, Berlin,Johann Gottlieb Fichte,Berlin,London
+"Chinese Skating Association's headquarters are in not Indianapolis, it is",Chinese Skating Association's headquarters are in, Beijing,Chinese Skating Association,Beijing,Indianapolis
+"Where is Uruguayan War? It is located in not Wales, it is",Where is Uruguayan War? It is located in, Uruguay,Uruguayan War,Uruguay,Wales
+"Bundesautobahn 5 is from not Microsoft, it is",Bundesautobahn 5 is from, Germany,Bundesautobahn 5,Germany,Microsoft
+"What sport does R.A. Dickey play? They play not soccer, it is",What sport does R.A. Dickey play? They play, baseball,R.A. Dickey,baseball,soccer
+"New Nintendo 3DS is developed by not Microsoft, it is",New Nintendo 3DS is developed by, Nintendo,New Nintendo 3DS,Nintendo,Microsoft
+"William Osler, who has a citizenship from not Norway, it is","William Osler, who has a citizenship from", Canada,William Osler,Canada,Norway
+"Final Fantasy is created by not Microsoft, it is",Final Fantasy is created by, Square,Final Fantasy,Square,Microsoft
+"Bakuman from not Malaysia, it is",Bakuman from, Japan,Bakuman,Japan,Malaysia
+"The mother tongue of Miguel de Cervantes is not Dutch, it is",The mother tongue of Miguel de Cervantes is, Spanish,Miguel de Cervantes,Spanish,Dutch
+"Apple A8X was created by not Intel, it is",Apple A8X was created by, Apple,Apple A8X,Apple,Intel
+"OS X Mavericks, developed by not Sony, it is","OS X Mavericks, developed by", Apple,OS X Mavericks,Apple,Sony
+"Saladin follows the religion of not Judaism, it is",Saladin follows the religion of, Islam,Saladin,Islam,Judaism
